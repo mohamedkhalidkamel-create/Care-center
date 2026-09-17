@@ -12,8 +12,8 @@
 
 // ---- الإعدادات: عدّليها مرة واحدة بس ----
 const WHATSAPP_NUMBER = "201556954308";
-const GITHUB_OWNER = "YOUR_GITHUB_USERNAME"; // <-- استبدليه باسم المستخدم بتاعك على GitHub
-const GITHUB_REPO = "YOUR_REPO_NAME"; // <-- استبدليه باسم المستودع بالظبط
+const GITHUB_OWNER = "mohamedkhalidkamel-create";
+const GITHUB_REPO = "Care-center";
 const GITHUB_BRANCH = "main"; // أو "master" لو ده اسم الفرع عندك
 
 const CACHE_MINUTES = 10; // مدة الاحتفاظ بنسخة مؤقتة من المنتجات قبل إعادة السؤال من GitHub
